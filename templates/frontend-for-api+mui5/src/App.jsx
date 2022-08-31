@@ -4,9 +4,9 @@ import { useEffect, useState } from 'react';
 
 function App() {
   /**
-   * API Reference: https://github.com/AyanavaKarmakar/rest-api
+   * API Reference: 'Your API Reference here'
    */
-  const api = 'https://ak-rest-api-v1.herokuapp.com';
+  const api = '';
   const [userData, setUserData] = useState([]);
 
   /**
